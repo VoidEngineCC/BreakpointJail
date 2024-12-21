@@ -16,6 +16,6 @@ To use this resource, you must have:
 
 ## Commands:
 - /ajail [ID] [SECONDS]
-- /aujail [ID]
+- /aunjail [ID]
 
   
